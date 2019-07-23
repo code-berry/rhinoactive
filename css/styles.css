@@ -436,5 +436,43 @@ nav button:hover {
 	}	
 }
 
+/* Queries for the gallery */
 
+@media screen and (max-width: 1400px) {
+	#sec3_img1 {
+		background-image: url('../images/gallery_placeholder_1.jpg');
+	}
+
+	#sec3_img2 {
+		background-image: url('../images/gallery_placeholder_2.jpg');
+	}
+
+	#sec3_img3 {
+		background-image: url('../images/gallery_placeholder_3.jpg');
+	}
+
+	#sec3_img4 {
+		background-image: url('../images/gallery_placeholder_4.jpg');
+	}
+
+	#sec3_img5 {
+		background-image: url('../images/gallery_placeholder_5.jpg');
+	}
+
+	#sec3_img6 {
+		background-image: url('../images/gallery_placeholder_6.jpg');
+	}
+
+	#sec3_img7 {
+		background-image: url('../images/gallery_placeholder_7.jpg');
+	}
+
+	#sec3_img8 {
+		background-image: url('../images/gallery_placeholder_8.jpg');
+	}
+
+	#sec3_img9 {
+		background-image: url('../images/gallery_placeholder_9.jpg');
+	}
+}
 
