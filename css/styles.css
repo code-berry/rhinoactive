@@ -242,11 +242,6 @@ nav button:hover {
 	color: #4fae7e;
 }
 
-#sec3_gallery img {
-	height: 80%;
-	transition: height 500ms, width 500ms;
-}
-
 #sec3_gallery h6 {
 	font-family: Muli;
 	font-weight: bold;
@@ -312,9 +307,6 @@ nav button:hover {
 	#home_sec4>.row>div:first-child {
 		background-image: url('../images/video-placeholder.jpg');
 	}
-	#sec3_gallery img {
-		height: 230px;
-	}
 }
 
 @media screen and (max-width: 1280px) {
@@ -355,9 +347,6 @@ nav button:hover {
 		height: 200px;
 		overflow: hidden;
 	}
-	#sec3_gallery img {
-		width: 100%;
-	}
 	#sec3_gallery>.row>div:first-child {
 		height: 100%;
 	}
@@ -388,15 +377,6 @@ nav button:hover {
 	}
 	#sec1Bg {
 		height: 450px;
-	}
-	#sec3_gallery img {
-		height: 200px;
-	}
-}
-
-@media screen and (max-width: 700px) {
-	#sec3_gallery img {
-		width: 300px;
 	}
 }
 
